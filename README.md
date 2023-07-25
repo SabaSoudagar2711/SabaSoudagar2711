@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SabaSoudagar2711
-- 👀 I’m interested in Learning Front-End and Back-End Technologies.
-- 🌱 I’m currently learning MERN Full Stack Developement.
+- I am trained and certified Java Full Stack Developer.
+- Tech Stack: JavaScript, React, Angular, Java, Spring Boot. 
 - 📫 How to reach me- soudagarsaba@gmail.com
 
 <!---

@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SabaSoudagar2711
-- I am trained and certified Java Full Stack Developer.
+- 👋 Hi, I’m Saba Soudagar
+- I am a trained and certified Java Full Stack Developer.
 - Tech Stack: JavaScript, React, Angular, Java, Spring Boot. 
 - 📫 How to reach me- soudagarsaba@gmail.com
 

@@ -2,7 +2,7 @@
 - I am a trained and certified Java Full Stack Developer.
 - Tech Stack: JavaScript, React, Angular, Java, Spring Boot, AWS. 
 - 📫 How to reach me- soudagarsaba@gmail.com
-- <img src="hackerRrank.svg" alt="HackerRank">
+- <img src="hackerrank/hackerRrank.svg" alt="HackerRank">
 
 
 

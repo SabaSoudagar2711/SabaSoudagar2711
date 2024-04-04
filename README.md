@@ -2,7 +2,8 @@
 - I am a trained and certified Java Full Stack Developer.
 - Tech Stack: JavaScript, React, Angular, Java, Spring Boot, AWS. 
 - 📫 How to reach me- soudagarsaba@gmail.com
-- ![image](https://github.com/SabaSoudagar2711/SabaSoudagar2711/assets/111581095/91919737-d406-4bd1-82d0-f6f25f1697a7)
+- ![image](https://github.com/SabaSoudagar2711/SabaSoudagar2711/assets/111581095/91919737-d406-4bd1-82d0-f6f25f1697a7){ width=20px }
+
 
 
 
